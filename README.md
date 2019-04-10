@@ -1,4 +1,4 @@
-Pacman by David Reilly
+Pac-Squad by Christian Prater 
 ======================
 With contributions by Andy Sommerville (2007) & David Reilly ()
 
@@ -13,7 +13,12 @@ The cube would rotate the map in a way to where the Pac Team could maneuver or '
 
 I have always wanted a more complex system of rules for pac-man and now with the things I have learned I am able to create theses things from scratch. Thankfully I live in a time where nothing is 100% 'From Scratch' but nonetheless it is pieced together in a unique way that brings a much more complicated mechanism to the design and gameplay of this iconic video game. 
 
-The skeleton of the game I am using from credited in the link above and the code will be included below. 
+The skeleton of the game I am using from credited in the link above and the code will be included below.
+
+// Pac-mancode.py// committed along side the README file. referenced here as it is around 1500 lines. I will be editing most but wanted to include everything as to give credit where it is due. 
+
+
+
 
 
 Happy editing! Please send me your creations; I may put level packs together for
